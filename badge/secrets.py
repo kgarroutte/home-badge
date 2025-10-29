@@ -5,4 +5,4 @@ WIFI_SSID = "u25-badger-party"
 WIFI_PASSWORD = "h4ck4w4y"
 
 # Update with your GitHub username
-GITHUB_USERNAME = ""
+GITHUB_USERNAME = "kgarroutte"
